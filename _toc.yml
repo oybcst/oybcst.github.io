@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Introduction  
+    chapters:
+      - file: hydro.md
+      - file: gallery.md
+  - caption: Maps
+    chapters:
+      - file: shinymb.md
+  - caption: Animations 
+    chapters:
+      - file: mb_salt.md
+      - file: mb_temp.md
+      - file: mb_salt_temp_3d.md
+      - file: mb_salt_ship.md
+      - file: zoomriver.md
+  - caption: Supercomputing
+    chapters:
+      - file: cow.md 
+  - caption: Results 
+    chapters:
+      - file: pubs.md
