@@ -1,6 +1,6 @@
 # oybcst.github.io
 
-This is the GitHub repo for the OyBcSt Hydrodynamics site, a JupyterBook.
+This is the GitHub repo for the [OyBcSt Hydrodynamics site](oybcst.github.io), a JupyterBook.
 
 Please open an [Issue](https://github.com/oybcst/oybcst/issues) or start a [discussion](https://github.com/orgs/oybcst/discussions) to make comments about the page.
 
