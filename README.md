@@ -9,7 +9,7 @@ Thanks for visiting!
 ## What are those files?
 
 This repo has markdown files and config files that are 'compiled' into static html files and pushed to a github branch to publish the 
-files to [oybcst.github.io](https://oybcst.github.io). 
+files to the website.
 
 It's not worth your time to dig through those files or to figure out how to do a pull request for the site. 
 
