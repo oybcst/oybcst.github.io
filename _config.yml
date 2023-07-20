@@ -3,7 +3,7 @@
 
 title: OyBcSt - NOAA RESTORE
 author: Lisa L. Lowe, and The Jupyter Book Community
-logo: https://renc.osn.xsede.org/ees210015-bucket01/img/grid_zoomriver0247.png
+logo: oybcst_gh.png 
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

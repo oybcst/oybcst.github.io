@@ -1,13 +1,3 @@
----
-myst:
-  substitutions:
-    oybcstlogo: |
-      ```{image} NOAA-Banner.png 
-      :alt: TOPS NASA Badge Logo 
-      :align: center 
-      ```
----
-
 # Oysters, Blue Crabs, and Spotted Seatrout
 
 ***Building Resilience to Environmental Trends and Variability in the Gulf of Mexico***
