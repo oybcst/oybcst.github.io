@@ -1,6 +1,8 @@
-# Visualization 
+# A Tour of the Site 
 
-Here are thumbnails of the Animations
+Here is a visual overview of the site contents.  Click the card to go directly to the item.
+
+## Animations
 ::::{grid}
 :gutter: 3
 
@@ -27,6 +29,32 @@ Here are thumbnails of the Animations
 
 :::{grid-item-card} Wetting and drying in the Delta
 <a href="zoomriver.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/hydro/zoomriver.png"/></a>
+:::
+
+::::
+
+
+
+## Mapping tools 
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Interactive Station Map
+<a href="shinymb.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/shiny_mb.png"/></a>
+:::
+
+:::{grid-item-card} Monthly Averages KMZ 
+<a href="kmz.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/monthly_averages_in_gep.png"/></a>
+:::
+
+::::
+
+## Supercomputing 
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Herding Big Data 
+<a href="cow.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/cow.png"/></a>
 :::
 
 ::::

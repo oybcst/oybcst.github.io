@@ -11,6 +11,9 @@ parts:
   - caption: Maps
     chapters:
       - file: shinymb.md
+  - caption: Data
+    chapters:
+      - file: kmz.md
   - caption: Animations 
     chapters:
       - file: mb_salt.md
