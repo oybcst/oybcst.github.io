@@ -1,10 +1,10 @@
 # A Tour of the Site 
 
-Here is a visual overview of the site contents.  Click the card to go directly to the item.
+Here is a visual overview of the site contents.  Click the image to go directly to the content.
 
 ## Animations
 ::::{grid}
-:gutter: 3
+:gutter: 2
 
 :::{grid-item-card} Surface and bottom salinity 
 <a href="mb_salt.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/hydro/saltbotsurf.png"/></a>
@@ -21,7 +21,7 @@ Here is a visual overview of the site contents.  Click the card to go directly t
 ::::
 
 ::::{grid}
-:gutter: 3
+:gutter: 2
 
 :::{grid-item-card} Salinity in the ship channel
 <a href="mb_salt_ship.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/mb_salt_side.png"/></a>
@@ -37,7 +37,7 @@ Here is a visual overview of the site contents.  Click the card to go directly t
 
 ## Mapping tools 
 ::::{grid}
-:gutter: 3
+:gutter: 2
 
 :::{grid-item-card} Interactive Station Map
 <a href="shinymb.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/shiny_mb.png"/></a>
@@ -51,7 +51,7 @@ Here is a visual overview of the site contents.  Click the card to go directly t
 
 ## Supercomputing 
 ::::{grid}
-:gutter: 3
+:gutter: 1
 
 :::{grid-item-card} Herding Big Data 
 <a href="cow.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/cow.png"/></a>

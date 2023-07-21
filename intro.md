@@ -8,21 +8,34 @@ OyBcSt examines how oyster, blue crab, and spotted seatrout populations respond 
 ## Hydrodynamics
 A hydrodynamics model calculates sea surface height, water temperature, salinity, and currents. Observations of these physical quantities may only be available for a handful of locations and times, but our model can fill in the gaps, giving us useful data for each point in space and time in the model domain.
 
+Click on the image to expand to full screen.
+::::{grid}
+:gutter: 1 
+
+:::{grid-item-card} Mobile Bay 
 ```{figure} https://renc.osn.xsede.org/ees210015-bucket01/img/hydro/gevsmodel.png 
 ---
-height: 200px 
+height: 200px
 name: mobile-bay 
-align: left
+alt:
 ---
-Mobile Bay
+Left: Mobile Bay on Google Earth with SCHISM grid. Right: Model output of temperature.
 ```
+:::
+
+:::{grid-item-card} Mobile-Tensaw River Delta 
 ```{figure} https://renc.osn.xsede.org/ees210015-bucket01/img/hydro/gemodriv.png 
 ---
-height: 200px 
-name: mtr-delta 
+height: 200px
+name: mtr-delta
+alt:
 ---
-Mobile-Tensaw River Delta
+Left: Mobile-Tensaw River Delta on Google Earth with SCHISM grid.  Right: Model output of temperature.
 ```
+:::
+
+::::
+
 
 ## Thank you NOAA and NSF
 
