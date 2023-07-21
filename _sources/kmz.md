@@ -12,4 +12,4 @@ The video shows the following:
 - On the left panel, click the `>` to expand the options.  By default, the only layer shown is average salinity for January.
 - Scroll down to see all the layers.
 - Deselect the current layer before selecting another layer.
-- Video ends showing Average salinity Jul and adding borders, places, and roads layers.
+- Video ends showing average salinity Jul and adding borders, places, and roads layers.
