@@ -5,5 +5,5 @@ Before running a large model, take inventory of expected end products.  Write, t
 
 <video preload="metadata" allow="fullscreen" frameBorder="0" style="width:50vw" controls controlsList="nodownload">
 	<source src="https://renc.osn.xsede.org/ees210015-bucket01/img/video/ourdatacow.mp4" type="video/mp4">
-	<track label="English" kind="captions" srclang="en" src="changecows.vtt">
+	<track label="English" kind="captions" srclang="en" src="../changecows.vtt">
 </video>

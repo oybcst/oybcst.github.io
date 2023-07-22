@@ -4,6 +4,7 @@
 title: OyBcSt - NOAA RESTORE
 author: Lisa L. Lowe, and The Jupyter Book Community
 logo: oybcst_gh.png 
+copyright                   : "2023"  # Copyright year to be placed in the footer
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -38,6 +39,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  favicon: oybcst_gh.png 
 
 sphinx:
   html_context:
