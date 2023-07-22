@@ -383,7 +383,7 @@ document.write(`
 <h1>Large datasets<a class="headerlink" href="#large-datasets" title="Permalink to this headline">#</a></h1>
 <p>The full model outputs are several terabytes. Post-processing tasks must be done while the data is on the supercomputer. That storage is not backed up, so the tasks must be completed before the data is lost or purged.</p>
 <p>Before running a large model, take inventory of expected end products.  Write, test, and automate post-processing scripts <em>before</em> generating data, so they may be scheduled when each model run is complete.  If the end products take only a small fraction of the raw data, and if rerunning the model is less expensive than archival storage, it may be acceptable to delete that raw data.</p>
-<video controls preload="metadata">
+<video preload="metadata" allow="fullscreen" frameBorder="0" style="width:50vw" controls controlsList="nodownload">
 	<source src="https://renc.osn.xsede.org/ees210015-bucket01/img/video/ourdatacow.mp4" type="video/mp4">
 	<track label="English" kind="captions" srclang="en" src="changecows.vtt">
 </video>
