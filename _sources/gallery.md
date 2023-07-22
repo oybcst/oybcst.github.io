@@ -54,7 +54,7 @@ Here is a visual overview of the site contents.  Click the image to go directly 
 :gutter: 1
 
 :::{grid-item-card} Herding Big Data 
-<a href="cow.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/cow.png"/></a>
+<a href="cow.html"><img src="https://renc.osn.xsede.org/ees210015-bucket01/img/cowtitleslide.png"/></a>
 :::
 
 ::::
