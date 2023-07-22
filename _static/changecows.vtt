@@ -1,210 +1,222 @@
 ﻿WEBVTT
 
 1
-00:00:03.785 --> 00:00:04.998
-
-
-2
-00:00:04.999 --> 00:00:18.129
+00:00:02.300 --> 00:00:15.063
 [Theme song from Rawhide]
 
+2
+00:00:15.063 --> 00:00:15.332
+
+
 3
-00:00:18.130 --> 00:00:26.345
+00:00:23.166 --> 00:00:23.278
 
 
 4
-00:00:26.345 --> 00:00:29.278
+00:00:23.279 --> 00:00:26.212
 NC State is an AG school, and North Carolinians
 
 5
-00:00:29.279 --> 00:00:32.948
+00:00:26.212 --> 00:00:29.881
 like to support their local farms.
 
 6
-00:00:32.948 --> 00:00:37.361
+00:00:29.881 --> 00:00:34.294
 NC State is also home to your favorite Advanced Computing Specialist,
 
 7
-00:00:37.361 --> 00:00:40.724
+00:00:34.295 --> 00:00:37.658
 and she supports the high-performance computing center.
 
 8
-00:00:40.725 --> 00:00:45.702
+00:00:37.659 --> 00:00:42.636
 In this project, she supports the hydrodynamics modeling for Mobile Bay.
 
 9
-00:00:45.703 --> 00:00:51.066
+00:00:42.636 --> 00:00:42.732
 
 
 10
-00:00:51.066 --> 00:00:53.657
-Raising a cow takes a lot of time and effort.
+00:00:47.800 --> 00:00:48.000
+
 
 11
-00:00:53.657 --> 00:00:56.913
-It is expensive. And it takes a lot of space.
+00:00:48.000 --> 00:00:50.591
+Raising a cow takes a lot of time and effort.
 
 12
-00:00:56.914 --> 00:00:58.026
-
+00:00:50.591 --> 00:00:53.847
+It is expensive. And it takes a lot of space.
 
 13
-00:00:58.026 --> 00:01:03.666
-Our hydrodynamics model can take several weeks to run - even on a supercomputer!
+00:00:53.847 --> 00:00:53.866
+
 
 14
-00:01:03.666 --> 00:01:06.053
-Processing the resulting output
+00:00:54.933 --> 00:00:54.959
+
 
 15
-00:01:06.054 --> 00:01:08.129
-can take several months.
+00:00:54.960 --> 00:01:00.600
+Our hydrodynamics model can take several weeks to run - even on a supercomputer!
 
 16
-00:01:08.129 --> 00:01:09.185
-
+00:01:00.600 --> 00:01:02.987
+Processing the resulting output
 
 17
-00:01:09.185 --> 00:01:13.417
-The model generates 6TB of data.
+00:01:02.987 --> 00:01:05.062
+can take several months.
 
 18
-00:01:13.417 --> 00:01:17.262
-in other words, our data is a cow.
+00:01:05.062 --> 00:01:05.066
+
 
 19
-00:01:17.263 --> 00:01:19.311
+00:01:06.066 --> 00:01:06.118
 
 
 20
-00:01:19.312 --> 00:01:25.206
-
+00:01:06.119 --> 00:01:10.351
+The model generates 6TB of data.
 
 21
-00:01:25.206 --> 00:01:28.136
-A small farm can't afford to make any mistakes.
+00:01:10.351 --> 00:01:14.196
+in other words, our data is a cow.
 
 22
-00:01:28.136 --> 00:01:30.418
-Before they start raising the first cow,
+00:01:14.196 --> 00:01:14.232
+
 
 23
-00:01:30.419 --> 00:01:33.031
-they need to know who their consumers will be.
+00:01:22.133 --> 00:01:22.139
+
 
 24
-00:01:33.031 --> 00:01:34.800
-Which products will they want?
+00:01:22.140 --> 00:01:25.070
+A small farm can't afford to make any mistakes.
 
 25
-00:01:34.801 --> 00:01:38.526
-And how do they need the products to be packaged?
+00:01:25.070 --> 00:01:27.352
+Before they start raising the first cow,
 
 26
-00:01:38.526 --> 00:01:42.846
-Likewise, before generating the next six terabytes of data,
+00:01:27.352 --> 00:01:29.964
+they need to know who their consumers will be.
 
 27
-00:01:42.846 --> 00:01:45.606
-we need to know who the consumers will be.
+00:01:29.965 --> 00:01:31.734
+Which products will they want?
 
 28
-00:01:45.606 --> 00:01:47.886
-Which products do they want?
-
-29
-00:01:47.886 --> 00:01:51.838
+00:01:31.734 --> 00:01:35.459
 And how do they need the products to be packaged?
 
+29
+00:01:35.459 --> 00:01:39.779
+Likewise, before generating the next six terabytes of data,
+
 30
-00:01:56.766 --> 00:01:58.926
-To get the cow ready for market,
+00:01:39.780 --> 00:01:42.540
+we need to know who the consumers will be.
 
 31
-00:01:58.926 --> 00:02:01.026
-the processing must be done in a plant.
+00:01:42.540 --> 00:01:44.820
+Which products do they want?
 
 32
-00:02:01.026 --> 00:02:03.606
-This job is only done once.
+00:01:44.820 --> 00:01:48.772
+And how do they need the products to be packaged?
 
 33
-00:02:03.606 --> 00:02:06.246
-The cow goes in...
+00:01:53.700 --> 00:01:55.860
+To get the cow ready for market,
 
 34
-00:02:06.246 --> 00:02:09.806
-and the products go out.
+00:01:55.860 --> 00:01:57.960
+the processing must be done in a plant.
 
 35
-00:02:09.807 --> 00:02:12.185
-
+00:01:57.960 --> 00:02:00.540
+This job is only done once.
 
 36
-00:02:12.185 --> 00:02:16.443
-The data for our model needs to be processed on the supercomputer.
+00:02:00.540 --> 00:02:03.180
+The cow goes in...
 
 37
-00:02:16.444 --> 00:02:20.165
-Hopefully, this job is only done once.
+00:02:03.180 --> 00:02:06.733
+and the products go out.
 
 38
-00:02:20.165 --> 00:02:23.362
-Ideally, the processing is done immediately.
+00:02:09.100 --> 00:02:09.119
+
 
 39
-00:02:23.363 --> 00:02:26.106
-When the job finishes!
+00:02:09.119 --> 00:02:13.377
+The data for our model needs to be processed on the supercomputer.
 
 40
-00:02:26.106 --> 00:02:29.586
-
+00:02:13.377 --> 00:02:17.098
+Hopefully, this job is only done once.
 
 41
-00:02:29.586 --> 00:02:32.638
-The data needs to be processed on the supercomputer.
+00:02:17.099 --> 00:02:20.296
+Ideally, the processing is done immediately.
 
 42
-00:02:32.639 --> 00:02:36.726
-But we can't store it there. It will need to be archived.
+00:02:20.296 --> 00:02:23.032
+When the job finishes!
 
 43
-00:02:36.726 --> 00:02:39.256
-And we can't process data in that type of storage.
+00:02:26.500 --> 00:02:26.520
+
 
 44
-00:02:39.257 --> 00:02:42.426
-If we don't have a list of the products needed when a model is finished,
+00:02:26.520 --> 00:02:29.572
+The data needs to be processed on the supercomputer.
 
 45
-00:02:42.426 --> 00:02:46.238
-we end up moving the data back and forth.
+00:02:29.572 --> 00:02:33.659
+But we can't store it there. It will need to be archived.
 
 46
-00:02:46.239 --> 00:02:58.506
-
+00:02:33.660 --> 00:02:36.190
+And we can't process data in that type of storage.
 
 47
-00:02:58.506 --> 00:03:02.607
-We take great care to create models that get the science right.
+00:02:36.190 --> 00:02:39.359
+If we don't have a list of the products needed when a model is finished,
 
 48
-00:03:02.607 --> 00:03:06.005
-And to get things right, sometimes you need a cow.
+00:02:39.360 --> 00:02:43.166
+we end up moving the data back and forth.
 
 49
-00:03:06.006 --> 00:03:08.287
-We do need to pause, to think,
+00:02:55.433 --> 00:02:55.439
+
 
 50
-00:03:08.287 --> 00:03:11.465
-and to make some data management decisions.
+00:02:55.440 --> 00:02:59.541
+We take great care to create models that get the science right.
 
 51
-00:03:11.466 --> 00:03:12.786
-Preferably...
+00:02:59.541 --> 00:03:02.939
+And to get things right, sometimes you need a cow.
 
 52
-00:03:12.786 --> 00:03:15.925
+00:03:02.940 --> 00:03:05.221
+We do need to pause, to think,
+
+53
+00:03:05.221 --> 00:03:08.399
+and to make some data management decisions.
+
+54
+00:03:08.400 --> 00:03:09.720
+Preferably...
+
+55
+00:03:09.720 --> 00:03:12.859
 as soon as possible!
 
