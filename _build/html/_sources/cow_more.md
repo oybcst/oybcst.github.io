@@ -1,3 +1,25 @@
+## Video Transcript
+
+NC State is an AG school, and North Carolinians like to support their local farms. NC State is also home to your favorite Advanced Computing Specialist, and she supports the high-performance computing center. In this project, she supports the hydrodynamics modeling for Mobile Bay.
+
+Raising a cow takes a lot of time and effort. It is expensive. And it takes a lot of space.  Our hydrodynamics model can take several weeks to run - even on a supercomputer!  Processing the resulting output can take several months.
+
+The model generates 6TB of data. In other words, our data is a cow.
+
+A small farm can't afford to make any mistakes.  Before they start raising the first cow, they need to know who their consumers will be.  Which products will they want?  And how do they need the products to be packaged?
+
+Likewise, before generating the next six terabytes of data, we need to know who the consumers will be.  Which products do they want?  And how do they need the products to be packaged?
+
+To get the cow ready for market, the processing must be done in a plant.  This job is only done once.  The cow goes in...  and the products go out.
+
+The data for our model needs to be processed on the supercomputer.  Hopefully, this job is only done once.  Ideally, the processing is done immediately.  When the job finishes!
+
+The data needs to be processed on the supercomputer.  But we can't store it there. It will need to be archived.  And we can't process data in that type of storage.  If we don't have a list of the products needed when a model is finished, we end up moving the data back and forth.
+
+We take great care to create models that get the science right.  And to get things right, sometimes you need a cow.  We do need to pause, to think, and to make some data management decisions.  Preferably...  as soon as possible!
+
+
+## Video Description
 Three cows are in a pasture. One is very close...and looking at you!
 
 After the theme song from "Rawhide" plays, a sign plops down saying: and now for something completely different.

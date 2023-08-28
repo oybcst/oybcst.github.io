@@ -18,5 +18,10 @@ and there is no README no intelligible files.  I wondered, how do they expect me
 
 I'll add documentation on how I created this book soon.
 
+## Notes for me
 
-
+```
+conda activate /Users/lllowe/env_tops
+jupyter-book build oybcst.github.io
+ghp-import -n -p -f _build/html
+```

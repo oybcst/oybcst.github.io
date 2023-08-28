@@ -3,6 +3,8 @@
 Here is a visual overview of the site contents.  Click the image to go directly to the content.
 
 ## Animations
+The following are a set of clipped videos with reduced size.  For full length, high resolution versions and additional video content, see the [OyBcSt YouTube playlist](https://www.youtube.com/playlist?list=PLzDPdMiOzO52vj9bm0dDfb1Y3yvbqbi1U).
+
 ::::{grid}
 :gutter: 2
 

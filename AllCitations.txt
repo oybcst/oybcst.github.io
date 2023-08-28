@@ -1,4 +1,6 @@
-﻿@article{Baker2020,
+﻿ARTICLES
+ 
+@article{Baker2020,
    author = {Ronald Baker and Matthew D. Taylor and Kenneth W. Able and Michael W. Beck and Just Cebrian and Denise D. Colombano and Rod M. Connolly and Carolyn Currin and Linda A. Deegan and Ilka C. Feller and Ben L. Gilby and Matthew E. Kimball and Thomas J. Minello and Lawrence P. Rozas and Charles Simenstad and R. Eugene Turner and Nathan J. Waltham and Michael P. Weinstein and Shelby L. Ziegler and Philine S.E. zu Ermgassen and Caitlin Alcott and Scott B. Alford and Myriam A. Barbeau and Sarah C. Crosby and Kate Dodds and Alyssa Frank and Janelle Goeke and Lucy A. Goodridge Gaines and Felicity E. Hardcastle and Christopher J. Henderson and W. Ryan James and Matthew D. Kenworthy and Justin Lesser and Debbrota Mallick and Charles W. Martin and Ashley E. McDonald and Catherine McLuckie and Blair H. Morrison and James A. Nelson and Gregory S. Norris and Jeff Ollerhead and James W. Pahl and Sarah Ramsden and Jennifer S. Rehage and James F. Reinhardt and Ryan J. Rezek and L. Mark Risse and Joseph A.M. Smith and Eric L. Sparks and Lorie W. Staver},
    doi = {10.1126/science.abe9332},
    issn = {0036-8075},
@@ -16,7 +18,6 @@
    institution = {Mississippi State University},
    title = {Natural Capital Value of Fishers under Environmental Stressor: A Case Study of Blue Crab under Hypoxia in the Gulf of Mexico.},
    year = {2022},
-   journal = {PhD Thesis},
    note = {Thesis},
 }
  
@@ -33,12 +34,11 @@
    year = {2021},
 }
  
-@article{CooganInReview,
+@article{,
    author = {J Coogan and B. Dzwonkowski and J Lehrter and K. Park and R. Collini},
    journal = {Estuaries and Coasts},
    title = {Physical drivers of dissolved oxygen variability in a shallow highly stratified estuary},
    note = {In Review},
-   year = {2023},
 }
  
 @article{Coogan2021,
@@ -293,7 +293,71 @@
    year = {2021},
 }
 
-@misc{Baker2023Re,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PRESENTATIONS - ORAL
+ 
+@misc{Baker2023,
    author = {R. Baker and J. Chapman},
    title = {Responses of juvenile spotted seatrout \emph{Cynoscion nebulosus} to experimental acute and chronic low salinity exposure},
    howpublished = {Oral Presentation},
@@ -301,7 +365,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Baker2023No,
+@misc{Baker2023,
    author = {R. Baker and R. Gilpin and A. R. Rodriguez and T. Offner and J. Cebrian},
    title = {Not all marsh edge is equally valuable fish habitat: variation in fish community structure across Mississippi Sound, Alabama},
    howpublished = {Oral Presentation},
@@ -309,7 +373,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Brewer2021Hy,
+@misc{Brewer2021,
    author = {S. Brewer and S. D. Yun and D. Petrolia},
    title = {Hypoxia and Natural Capital Value of Blue Crab in the Gulf of Mexico},
    howpublished = {Oral Presentation},
@@ -317,18 +381,36 @@
    note = {53rd Annual Meetings of Southern Agricultural Economics Association (SAEA), Virtual Conference},
 }
  
-@misc{Brown,
+@misc{Brown2023,
    author = {J. Brown and S. Yun and A. Kim and D. Petrolia and M. Partyka},
    title = {Regional Economic Impacts of Harmful Algal Blooms and \emph{Enterococcus} in Florida and Mississippi},
    howpublished = {Oral Presentation},
-   note = {Annual Meetings of Southern Agricultural Economics Association, Oklahoma City, Oklahoma, February 4-8, 2023 and Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25, 2023},
+   year = {2023},
+   note = {Annual Meetings of Southern Agricultural Economics Association, Oklahoma City, Oklahoma, February 4-8},
 }
  
-@misc{CebrianSh,
+@misc{Brown2023,
+   author = {J. Brown and S. Yun and A. Kim and D. Petrolia and M. Partyka},
+   title = {Regional Economic Impacts of Harmful Algal Blooms and \emph{Enterococcus}in Florida and Mississippi},
+   howpublished = {Oral Presentation},
+   year = {2023},
+   note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
+}
+ 
+@misc{Cebrian2022,
    author = {J. Cebrian and R. Gilpin and L. West and R. Moody and D. Byron and R. Gamble and K. Heck and Y. Lau and W. Scheffel},
    title = {Shallow seagrass versus fringing marsh habitat use by juvenile recruits of fish and macroinvertebrates in the northern Gulf of Mexico},
    howpublished = {Oral Presentation},
-   note = {Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29, 2022 and Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25, 2023},
+   year = {2022},
+   note = {Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29},
+}
+ 
+@misc{Cebrian2023,
+   author = {J. Cebrian and R. Gilpin and L. West and R. Moody and D. Byron and R. Gamble and K. Heck and Y. Lau and W. Scheffel},
+   title = {Shallow seagrass versus fringing marsh habitat use by juvenile recruits of fish and macroinvertebrates in the northern Gulf of Mexico},
+   howpublished = {Oral Presentation},
+   year = {2023},
+   note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
 @misc{Coogan2019,
@@ -347,14 +429,39 @@
    note = {CERF Biannual meeting, Mobile, Alabama, November 5},
 }
  
-@misc{DzwonkowskiCa,
+@misc{Dzwonkowski2021,
    author = {B. Dzwonkowski and S. Fournier and G. Lockridge and Z. Liu and J. Coogan and K. Park},
    title = {Cascading weather events amplify the coastal thermal conditions prior to the shelf transit of Hurricane Sally (2020)},
    howpublished = {Oral Presentation},
-   note = {AGU Fall Meeting, New Orleans, Louisiana, December 15, 2021 and AGU/ASLO/TOS Bi-annual Ocean Sciences Meeting, February 28, 2022 and Dauphin Island Sea Lab Seminar Series, Dauphin Island, Alabama, September 9, 2022 and University of South Mississippi Seminar Series, Stennis Space Center, Mississippi, February 17, 2023},
+   year = {2021},
+   note = {AGU Fall Meeting, New Orleans, Louisiana, December 15},
 }
  
-@misc{Dzwonkowski2022Un,
+@misc{Dzwonkowski2022,
+   author = {B. Dzwonkowski and S. Fournier and G. Lockridge and Z. Liu and J. Coogan and K. Park},
+   title = {Cascading weather events amplify the coastal thermal conditions prior to the shelf transit of Hurricane Sally (2020)},
+   howpublished = {Oral Presentation},
+   year = {2022},
+   note = {AGU/ASLO/TOS Bi-annual Ocean Sciences Meeting, February 28},
+}
+ 
+@misc{Dzwonkowski2022,
+   author = {B. Dzwonkowski},
+   title = {Cascading weather events amplify the coastal thermal conditions prior to the shelf transit of Hurricane Sally (2020)},
+   howpublished = {Oral Presentation},
+   year = {2022},
+   note = {Dauphin Island Sea Lab Seminar Series, Dauphin Island, Alabama, September 9},
+}
+ 
+@misc{Dzwonkowski2023,
+   author = {B. Dzwonkowski},
+   title = {Cascading weather events amplify the coastal thermal conditions prior to the shelf transit of Hurricane Sally (2020)},
+   howpublished = {Oral Presentation},
+   year = {2023},
+   note = {University of South Mississippi Seminar Series, Stennis Space Center, Mississippi, February 17},
+}
+ 
+@misc{Dzwonkowski2022,
    author = {B. Dzwonkowski},
    title = {Underwater perspective of a storm and the potential for forecast benefits},
    howpublished = {Oral Presentation},
@@ -362,14 +469,23 @@
    note = {Marine Technology Society, Oceans in Action/Port Security Summit, Gulf Port, Mississippi, March 9},
 }
  
-@misc{DzwonkowskiCo,
+@misc{Dzwonkowski2019,
    author = {B. Dzwonkowski and J. Coogan and G. Lockridge and K. Park},
    title = {Compounding atmospheric events impacting shelf heat content: Implications for Hurricane Michael},
    howpublished = {Oral Presentation},
-   note = {Bi-annual Ocean Sciences Meeting, AGU/ALSO/TOS, San Diego, California, February 17, 2019 and CERF Biannual meeting, Mobile, Alabama, November 5, 2019},
+   year = {2019},
+   note = {Bi-annual Ocean Sciences Meeting, AGU/ALSO/TOS, San Diego, California, February 17},
 }
  
-@misc{Dzwonkowski2021Evo,
+@misc{Dzwonkowski2019,
+   author = {B. Dzwonkowski and J. Coogan and G. Lockridge and K. Park},
+   title = {Compounding atmospheric events impacting shelf heat content: Implications for Hurricane Michael},
+   howpublished = {Oral Presentation},
+   year = {2019},
+   note = {CERF Biannual meeting, Mobile, Alabama, November 5},
+}
+ 
+@misc{Dzwonkowski2021,
    author = {B. Dzwonkowski and S. Fournier and G. Lockridge and Z. Liu and J. Coogan and K. Park},
    title = {Evolution of the temperature conditions during the rapid intensification of Hurricane Sally (2020) over the Alabama shelf},
    howpublished = {Oral Presentation},
@@ -377,7 +493,7 @@
    note = {AGU Fall Meeting, New Orleans, Louisiana, December 14},
 }
  
-@misc{Dzwonkowski2020Hu,
+@misc{Dzwonkowski2020,
    author = {B. Dzwonkowski and S. Fournier and G. Lockridge and Z. Liu and J. Coogan and K. Park},
    title = {Hurricane Sally (2020) generates a coastal shift in the ocean thermal structure during rapid intensification},
    howpublished = {Oral Presentation},
@@ -385,21 +501,39 @@
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, April 26},
 }
  
-@misc{Ehrmann,
+@misc{Ehrmann2021,
    author = {H. Ehrmann and Z. Porter and R. Baker},
    title = {Drivers of inter-annual variation in \emph{Cynoscion nebulosus} growth in Mobile Bay, Alabama},
    howpublished = {Oral Presentation},
-   note = {American Fisheries Society Conference, Baltimore, Maryland, November 6-10, 2021 and Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25, 2023},
+   year = {2021},
+   note = {American Fisheries Society Conference, Baltimore, Maryland, November 6-10},
 }
  
-@misc{Enyetornye,
+@misc{Ehrmann2023,
+   author = {H. Ehrmann and R. Baker},
+   title = {Drivers of long term spatiotemporal shifts in nekton communities in coastal Alabama: 1981 – 2018},
+   howpublished = {Oral Presentation},
+   year = {2023},
+   note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
+}
+ 
+@misc{Enyetornye2023,
    author = {F. Enyetornye and D. Petrolia and S. Yun and Z. Chen},
    title = {Valuation of Oyster Reef Restoration along the Gulf Coast},
    howpublished = {Oral Presentation},
-   note = {Annual Meetings of Southern Agricultural Economics Association, Oklahoma City, Oklahoma, February 4-8, 2023 and Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25, 2023},
+   year = {2023},
+   note = {Annual Meetings of Southern Agricultural Economics Association, Oklahoma City, Oklahoma, February 4-8},
 }
  
-@misc{Fung2022Cl,
+@misc{Enyetornye2023,
+   author = {F. Enyetornye and D. Petrolia and S. Yun and Z. Chen},
+   title = {Valuation of Oyster Reef Restoration along the Gulf Coast},
+   howpublished = {Oral Presentation},
+   year = {2023},
+   note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
+}
+ 
+@misc{Fung2022,
    author = {M. Fung and S. Phipps and J. Lehrter},
    title = {Climate, hydrology, and nutrient effects on long-term chlorophyll variability in Weeks Bay, AL},
    howpublished = {Oral Presentation},
@@ -407,7 +541,7 @@
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, May},
 }
  
-@misc{Fung2021Ex,
+@misc{Fung2021,
    author = {M. Fung and J. Lehrter},
    title = {Examining the algal biodilution hypothesis in Mobile Bay, Alabama},
    howpublished = {Oral Presentation},
@@ -415,7 +549,7 @@
    note = {AGU Fall Meeting, New Orleans, Louisiana and online, December 13-17},
 }
  
-@misc{Fung2021Lo,
+@misc{Fung2021,
    author = {M. Fung and S. Phipps and J. Lehrter},
    title = {Long-term patterns of chlorophyll variability in Weeks Bay, Alabama},
    howpublished = {Oral Presentation},
@@ -423,14 +557,31 @@
    note = {NERRS-NERRA Annual Meeting, Presented virtually, November},
 }
  
-@misc{GilpinTh,
+@misc{Gilpin2022,
    author = {R. Gilpin and S. Ramsden and T. Offner and R. Baker and J. Cebrian},
    title = {The influence of marsh edge and seagrass habitat on summer fish and macroinvertebrate recruitment to a northern Gulf of Mexico coastal system},
    howpublished = {Oral Presentation},
-   note = {Mississippi Water Resources Conference, Starkville, Mississippi, April 14, 2022 and Gulf of Mexico Conference, Baton Rouge, Louisiana, April 26, 2022 and Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29, 2022},
+   year = {2022},
+   note = {Mississippi Water Resources Conference, Starkville, Mississippi, April 14},
 }
  
-@misc{Gilpin2021Su,
+@misc{Gilpin2022,
+   author = {R. Gilpin and S. Ramsden and T. Offner and R. Baker and J. Cebrian},
+   title = {The influence of marsh edge and seagrass habitat on summer fish and macroinvertebrate recruitment to a northern Gulf of Mexico coastal system},
+   howpublished = {Oral Presentation},
+   year = {2022},
+   note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, April 26},
+}
+ 
+@misc{Gilpin2022,
+   author = {R. Gilpin and S. Ramsden and T. Offner and R. Baker and J. Cebrian},
+   title = {The influence of marsh edge and seagrass habitat on summer fish and macroinvertebrate recruitment to a northern Gulf of Mexico coastal system},
+   howpublished = {Oral Presentation},
+   year = {2022},
+   note = {Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29},
+}
+ 
+@misc{Gilpin2021,
    author = {R. Gilpin and S. Ramsden and T. Offner and R. Baker and J. Cebrian},
    title = {Summer fish and macroinvertebrate recruitment to a shallow vegetated coastal system in the northern Gulf of Mexico},
    howpublished = {Oral Presentation},
@@ -438,7 +589,7 @@
    note = {26th Biennial CERF Conference, November 1-11},
 }
  
-@misc{Haas2021Aw,
+@misc{Haas2021,
    author = {H. Haas and L. Kalin and J. Lehrter and D. Tian and L. Lowe},
    title = {A watershed modeling framework to assess the impacts of environmental changes in the Mobile Bay, Alabama},
    howpublished = {Oral Presentation},
@@ -446,15 +597,23 @@
    note = {AGU Fall Meeting},
 }
  
-@misc{Haas2021Hy,
+@misc{Haas2021,
    author = {H. Haas and L. Kalin and D. Tian},
    title = {Hydroclimatic trends in the Mobile Bay Basin from 1979 to 2018},
    howpublished = {Oral Presentation},
    year = {2021},
-   note = {Alabama Water Resources Conference and Symposium, Orange Beach, Alabama, September 8-10, 2021 and Auburn Research Student Symposium, Auburn, Alabama, March 28, 2022},
+   note = {Alabama Water Resources Conference and Symposium, Orange Beach, Alabama, September 8-10},
 }
  
-@misc{Haas2021Ho,
+@misc{Haas2022,
+   author = {H. Haas and L. Kalin and D. Tian},
+   title = {Hydroclimatic trends in the Mobile Bay Basin from 1979 to 2018},
+   howpublished = {Oral Presentation},
+   year = {2022},
+   note = {Auburn Research Student Symposium, Auburn, Alabama, March 28},
+}
+ 
+@misc{Haas2021,
    author = {H. Haas and L. Kalin},
    title = {How Important is Considering Point-Sources in Large-Scale Watershed Modeling?},
    howpublished = {Oral Presentation},
@@ -462,7 +621,7 @@
    note = {Alabama Water Resources Conference and Symposium, Orange Beach, Alabama, September 8-10},
 }
  
-@misc{Jarvis2021Co,
+@misc{Jarvis2021,
    author = {B. Jarvis and R. Greene and Y. Wan and J. Lehrter and L. Lowe and D. Ko},
    title = {Contiguous Low Oxygen Waters Between the Continental Shelf Hypoxia Zone and Nearshore Coastal Waters of Louisiana, USA: Interpreting 30 Years of Profiling Data and Three-Dimensional Ecosystem Modeling},
    howpublished = {Oral Presentation},
@@ -478,7 +637,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Lehrter2020Bu,
+@misc{Lehrter2020,
    author = {J. Lehrter},
    title = {Building resilience for oysters, blue crab, and spotted trout to environment trends and variability},
    howpublished = {Oral Presentation},
@@ -486,7 +645,7 @@
    note = {Mobile Bay National Estuary Program, August},
 }
  
-@misc{Lehrter2021Sa,
+@misc{Lehrter2021,
    author = {J. Lehrter},
    title = {Satellite Earth Image Products Applied to Development of Regulatory Water Quality Standards},
    howpublished = {Oral Presentation},
@@ -494,7 +653,7 @@
    note = {NASA PACE Applications Workshop, Presented online, September 16},
 }
  
-@misc{Lehrter2021Up,
+@misc{Lehrter2021,
    author = {J. Lehrter},
    title = {Update on the OyBcSt project},
    howpublished = {Oral Presentation},
@@ -502,7 +661,7 @@
    note = {Mobile Bay National Estuary Program, January},
 }
  
-@misc{Lehrter2023Wa,
+@misc{Lehrter2023,
    author = {J. Lehrter},
    title = {Water quality trends in coastal Alabama and implications for coastal restoration and management},
    howpublished = {Oral Presentation},
@@ -510,7 +669,7 @@
    note = {Alabama Coastal Foundation Sustainability Summit, Mobile, Alabama, January 27},
 }
  
-@misc{Lehrter2022Lo,
+@misc{Lehrter2022,
    author = {J. Lehrter and M. Fung},
    title = {Long term trends in temperature, salinity, oxygen, and pH in Alabama coastal waters},
    howpublished = {Oral Presentation},
@@ -518,7 +677,7 @@
    note = {Alabama Water Resources Conference, Orange Beach, Alabama, August 28},
 }
  
-@misc{Lehrter2022Es,
+@misc{Lehrter2022,
    author = {J. Lehrter and M. Fung},
    title = {Estuarine deoxygenation trend correlates with increasing water temperature trend and inter-annual salinity variability in Mobile Bay, Alabama},
    howpublished = {Oral Presentation},
@@ -526,7 +685,7 @@
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, May},
 }
  
-@misc{Lehrter2023Wq,
+@misc{Lehrter2023,
    author = {J. Lehrter and Z. Liu and M. Fung},
    title = {Water quality is changing in Mobile Bay and Mississippi Sound - What are the mechanisms and what are our options?},
    howpublished = {Oral Presentation},
@@ -534,7 +693,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Liu2023In,
+@misc{Liu2023,
    author = {Z. Liu and J. Lehrter and B. Dzwonkowski and L. Lowe},
    title = {Influences of future changes in watershed on estuarine hydrography: A case study of Wolf- Perdido Bay},
    howpublished = {Oral Presentation},
@@ -542,7 +701,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Liu2022Wind,
+@misc{Liu2022,
    author = {Z. Liu and B. Dzwonkowski and J. Lehrter and L. Lowe and J. Coogan},
    title = {Influence of wind on stratification and mixing in Mobile Bay, Alabama, a wide microtidal estuary},
    howpublished = {Oral Presentation},
@@ -550,7 +709,7 @@
    note = {12th International Workshop on Modeling the Ocean, Anne Arbor, Michigan, June 28-July 1},
 }
  
-@misc{Liu2022Cross,
+@misc{Liu2022,
    author = {Z. Liu and J. Lehrter and B. Dzwonkowski and L. Lowe},
    title = {Development of a cross-scale hydrodynamical model for Perdido Bay},
    howpublished = {Oral Presentation},
@@ -558,7 +717,7 @@
    note = {Alabama Water Resources Conference, Orange Beach, Alabama, August 28},
 }
  
-@misc{Liu2022Phy,
+@misc{Liu2022,
    author = {Z. Liu and J. Lehrter and B. Dzwonkowski and L. Lowe},
    title = {Physical-biogeochemical response to climate change in Mobile Bay, AL},
    howpublished = {Oral Presentation},
@@ -566,7 +725,7 @@
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, April 26},
 }
  
-@misc{Liu2022Roloc,
+@misc{Liu2022,
    author = {Z. Liu and B. Dzwonkowski and J. Lehrter and L. Lowe},
    title = {Role of local missing on system stratification: Impact of tidal inlets in Mobile Bay, AL},
    howpublished = {Oral Presentation},
@@ -574,7 +733,7 @@
    note = {CERF Biannual meeting, Mobile, Alabama, November 7},
 }
  
-@misc{Liu2022Short,
+@misc{Liu2022,
    author = {Z. Liu and B. Dzwonkowski and J. Lehrter and L. Lowe and J. Coogan},
    title = {Role of short term nonextreme wind on hypoxia evolution in a shallow stratified estuary - Mobile Bay, AL},
    howpublished = {Oral Presentation},
@@ -582,7 +741,7 @@
    note = {AGU/ASLO/TOS Bi-annual Ocean Sciences Meeting, February 28},
 }
  
-@misc{Liu2022Tow,
+@misc{Liu2022,
    author = {Z. Liu and J. Lehrter and B. Dzwonkowski and L. Lowe},
    title = {Towards comprehensive ecosystem modeling in response to climate change in Mobile Bay, AL},
    howpublished = {Oral Presentation},
@@ -590,7 +749,7 @@
    note = {AGU Fall Meeting New Orleans, Louisiana, December 13},
 }
  
-@misc{Mikolaitis2021ECSS,
+@misc{Mikolaitis2021,
    author = {C. P. Mikolaitis and J. C. Lehrter and T. D. Sherman and S. M. Ní Chadhain},
    title = {Effect of Cadmium and Salinity Stressor Synergy On \emph{Vallisneria neotropicalis}},
    howpublished = {Oral Presentation},
@@ -598,7 +757,7 @@
    note = {SETAC North America 42nd Annual Meeting, Presented online, November 14-18},
 }
  
-@misc{Offner2022Than,
+@misc{Offner2022,
    author = {T. Offner and R. Gilpin and K. Chenier and J. Cebrian and E. Sparks},
    title = {Temporal and habitual assemblage of nekton community in Back Bay},
    howpublished = {Oral Presentation},
@@ -606,7 +765,7 @@
    note = {SE CASC Symposium, Gulf Shores, Alabama, September 19-21},
 }
  
-@misc{Offner2022UseUfmas,
+@misc{Offner2022,
    author = {T. Offner and R. Gilpin and K. Chenier and J. Cebrian and E. Sparks},
    title = {Use of fringing marsh and adjacent submerged landscape habitat by nekton in a Gulf of Mexico tidal mesohaline environment},
    howpublished = {Oral Presentation},
@@ -614,7 +773,7 @@
    note = {Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29},
 }
  
-@misc{Plumlee2023Hdcpr,
+@misc{Plumlee2023,
    author = {J. Plumlee and S. Powers and J. Herrmann and J. Mareska},
    title = {Heatwave duration correlates with the poor recruitment of oysters in Alabama coastal waters},
    howpublished = {Oral Presentation},
@@ -622,7 +781,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Sreeshylam2021Tinsbs,
+@misc{Sreeshylam2021,
    author = {H. Sreeshylam and Z. Liu and B. Dzwonkowski and J. C. Lehrter and L. Lowe and M. Fung },
    title = {The influence of a novel salinity-based solar attenuation algorithm on modeled temperature in Mobile Bay},
    howpublished = {Oral Presentation},
@@ -630,7 +789,7 @@
    note = {AGU Fall Meeting, New Orleans, Louisiana, December 16},
 }
  
-@misc{Tain2022AIdead,
+@misc{Tain2022,
    author = {D. Tian},
    title = {AI-driven environmental analytics for data-informed climate adaptation and resilience. Envisioning 2050 in the Southeast: AI-Driven Innovations in Agriculture},
    howpublished = {Oral Presentation},
@@ -638,7 +797,7 @@
    note = {Auburn, Alabama, March 9-11},
 }
  
-@misc{Wang2022Odlbc,
+@misc{Wang2022,
    author = {F. Wang and Di Tian},
    title = {On deep learning-based bias correction and downscaling of multiple climate models simulations. Envisioning 2050 in the Southeast: AI-Driven Innovations in Agriculture},
    howpublished = {Oral Presentation},
@@ -646,7 +805,7 @@
    note = {Auburn, Alabama, March 9-11},
 }
  
-@misc{Wang2021BCMmg,
+@misc{Wang2021,
    author = {F. Wang and Di Tian},
    title = {Bias Correction of Multi-model GCMs Daily Temperature based on Deep Learning},
    howpublished = {Oral Presentation},
@@ -654,15 +813,60 @@
    note = {AGU Fall Meeting, New Orleans, Louisiana, December 13-17},
 }
  
-@misc{Yun2022EVh,
+@misc{Yun2022,
    author = {S. Yun and D. Petrolia and S. Brewer},
    title = {Economic Valuation of Hypoxia Impacts on Blue Crab Fisheries in the Gulf of Mexico},
    howpublished = {Oral Presentation},
    year = {2022},
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, April 25-28},
 }
+ 
 
-@misc{Bourne2023Atc,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PRESENTATIONS - POSTER
+ 
+@misc{Bourne2023,
    author = {A. Bourne and A. Fletcher and J. Lehrter},
    title = {Patterns and trends in chlorophyll a concentration across the Mobile Bay salinity gradient},
    howpublished = {Poster Presentation},
@@ -670,15 +874,16 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Dykstra2019PtF,
+@misc{Dykstra2019,
    author = {S. Dykstra and B. Dzwonkowski},
    title = {Predictable to Flashy: The intensifying frequency of coastal flooding, northeast Gulf of Mexico},
    howpublished = {Poster Presentation},
    year = {2019},
    note = {AGU Fall meeting, San Francisco, California, December 13},
 }
- 
-@misc{Ehrmann2022Diav,
+
+
+@misc{Ehrmann2022,
    author = {H. Ehrmann and Z. Porter and R. Baker},
    title = {Drivers of inter-annual variation in \emph{Cynoscion nebulosus} growth in Mobile Bay, AL},
    howpublished = {Poster Presentation},
@@ -686,7 +891,7 @@
    note = {Gulf of Mexico Conference, Baton Rouge, Louisiana, April 25-28},
 }
  
-@misc{Fung2023Acidp,
+@misc{Fung2023,
    author = {M. Fung and S. Phipps and J. Lehrter},
    title = {Abrupt chlorophyll increase driven by phosphorus threshold in Weeks Bay, AL},
    howpublished = {Poster Presentation},
@@ -694,7 +899,7 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{GilpinTimes,
+@misc{Gilpin,
    author = {R. Gilpin and S. Ramsden and T. Offner and R. Baker and J. Cebrian},
    title = {The influence of marsh edge and seagrass habitat on summer fish and macroinvertebrate recruitment to a northern Gulf of Mexico coastal system},
    howpublished = {Poster Presentation},
@@ -702,7 +907,7 @@
    note = {Gulf Estuarine Research Society Conference, Ocean Springs, Mississippi, October 27-29},
 }
  
-@misc{Liu2020Pbrcc,
+@misc{Liu2020,
    author = {Z. Liu and B. Dzwonkowski and J. Lehrter and D. Ralston and L. Lowe and J. Coogan},
    title = {Physical-biogeochemical response to climate change and sea level rise in the Mobile Bay, Alabama},
    howpublished = {Poster Presentation},
@@ -710,7 +915,7 @@
    note = {AGU Fall Meeting},
 }
  
-@misc{Mikolaitis2023Anehmc,
+@misc{Mikolaitis2023,
    author = {C. Mikolaitis and J. Lehrter},
    title = {An exploration of heavy metal contamination and salinity synergies on Mobile Delta submerged grasses},
    howpublished = {Poster Presentation},
@@ -718,22 +923,32 @@
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
  
-@misc{Sreeshylam2023Rapch,
+@misc{Sreeshylam2023,
    author = {H. Sreeshylam and Z. Liu and B. Dzwonkowski and J. Lehrter and J. Coogan},
    title = {Rapid changes in tropical cyclone intensities over the coastal ocean: A global perspective},
    howpublished = {Poster Presentation},
    year = {2023},
    note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
 }
- 
-@misc{SreeshylamLdend,
+
+
+@misc{Sreeshylam2022,
    author = {H. Sreeshylam and Z. Liu and B. Dzwonkowski and J. Lehrter and L. Lowe and J. Coogan},
    title = {Lateral dynamics in an estuary with a narrow, deep ship channel and wide, shallow shoals: Mobile Bay, Alabama},
    howpublished = {Poster Presentation},
-   note = {Young Coastal Scientists and Engineers Conference, Pensacola, Florida, November 4-6, 2022 and Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25, 2023},
+   year = {2022},
+   note = {Young Coastal Scientists and Engineers Conference, Pensacola, Florida, November 4-6},
 }
  
-@misc{Wang2021Odlbc,
+@misc{Sreeshylam2023,
+   author = {H. Sreeshylam and Z. Liu and B. Dzwonkowski and J. Lehrter and L. Lowe and J. Coogan},
+   title = {Lateral dynamics in an estuary with a narrow, deep ship channel and wide, shallow shoals: Mobile Bay, Alabama},
+   howpublished = {Poster Presentation},
+   year = {2023},
+   note = {Bays and Bayous Biennial Meeting, Mobile, Alabama, January 24-25},
+}
+ 
+@misc{Wang2021,
    author = {F. Wang and D. Tian},
    title = {On deep learning bias correction for GCMs daily temperature outputs},
    howpublished = {Poster Presentation},
@@ -741,7 +956,7 @@
    note = {3rd NOAA Workshop on Leveraging AI in Environmental Sciences, Boulder, Colorado, September 13-17},
 }
  
-@misc{Wang2022CDLP,
+@misc{Wang2022,
    author = {F. Wang and D. Tian and M. Carroll},
    title = {Customized Deep Learning for Precipitation Bias Correction and Downscaling},
    howpublished = {Poster Presentation},
@@ -749,7 +964,7 @@
    note = {AGU Fall Meeting, Chicago, Illinois, December 12-16},
 }
  
-@misc{Wang2020DLDP,
+@misc{Wang2020,
    author = {F. Wang and D. Tian and L. Lowe and L. Kalin and J. C. Lehrter and B. Dzwonkowski},
    title = {Deep Learning for Daily Precipitation and Temperature Downscaling},
    howpublished = {Poster Presentation},
