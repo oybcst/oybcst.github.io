@@ -44,3 +44,21 @@ The hydrodynamics modeling work is a component of research funded by the Nationa
 The hydrodynamics modeling for this project is done on Expanse, at the San Diego Supercomputer Center (SDSC), and the modeling data is being hosted on Open Storage Network (OSN), through allocation EES210015 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.
 
 Work at both providers was done under the Extreme Science and Engineering Discovery Environment (XSEDE), which was supported by National Science Foundation grant number #1548562. We thank Mark W. Van Moer of the National Center for Supercomputing Applications (NCSA) for advanced visualization support which was made possible through the XSEDE Extended Collaborative Support Service (ECSS) program.
+
+## Acknowledgements
+
+Members of NOAA RESTORE's Oysters, Blue Crabs, Seatrout project(OyBcSt) hydrodynamics modeling team, alphabetically listed:
+- Brian Dzwonkowski - Senior Marine Scientist, Dauphin Island Sea Lab; PI NOAA RESTORE 
+- John Lehrter - Senior Marine Scientist, Dauphin Island Sea Lab; Lead PI, NOAA RESTORE
+- Zhilong Liu - Research Assistant Professor, University of South Alabama
+- Lisa L. Lowe - Advanced Computing Specialist, North Carolina State University; PI NOAA RESTORE
+- Aravind Puzhankara - PhD Student, University of South Alabama
+- Harikrishnan Sreeshylam - PhD Student, University of South Alabama
+
+Lisa Lowe created the website, visualizations, videos, R Shiny App, and GIS outputs.
+
+Zhilong Liu provided SCHISM model outputs used in the visualizations and GIS outputs.
+
+Harikrishnan Sreeshylam provided ROMS model outputs used in the R Shiny App.
+
+Alyssa Bourne, student at University of South Alabama, compiled the lengthy list of citations into Bibtex for the Publications section.
